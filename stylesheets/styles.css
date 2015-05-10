@@ -108,6 +108,10 @@ a.button {
 	height: auto;
 }
 
+li.button-fixer {
+	margin: 1em auto;
+}
+
 .signature {
 	color: lightgray;
 }
