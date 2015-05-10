@@ -97,12 +97,14 @@ p, a, ul, li {
 a.main-button {
 	color: white;
 	background: black;
-	padding: 2.4em;
+	padding: 1.2em 2.4em;
+	margin: 1em auto;
 }
 
 a.button {
 	border: 2px solid black;
 	padding: 2.4em;
+	margin: 1em auto;
 }
 
 .signature {
