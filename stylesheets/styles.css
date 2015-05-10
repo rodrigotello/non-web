@@ -112,7 +112,8 @@ a.button {
 }
 
 li.button-fixer {
-	margin: 1em auto;
+	margin: 2.4em auto;
+	width: 100%;
 }
 
 .signature {
