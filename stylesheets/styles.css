@@ -100,14 +100,14 @@ a.main-button {
 	font-weight: 600;
 	display: inline-block;
 	padding: 1.2em 2.4em;
-	width: 100%;
+	width: 420px;
 	height: auto;
 }
 
 a.button {
 	border: 2px solid black;
 	font-weight: 400;
-	width: 100%;
+	width: 420px;
 	display: inline-block;
 	height: auto;
 	padding: 1.2em 2.4em;
@@ -115,9 +115,8 @@ a.button {
 
 li.button-fixer {
 	margin: 2.4em auto;
-	width: 100%;
 }
 
 .signature {
-	color: lightgray;
+	color: gray;
 }
