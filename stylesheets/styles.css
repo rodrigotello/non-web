@@ -98,6 +98,7 @@ a.main-button {
 	background: black;
 	color: white;
 	font-weight: 600;
+	padding: 1.2em 2.4;
 	width: 100%;
 	height: auto;
 }
