@@ -98,15 +98,17 @@ a.main-button {
 	background: black;
 	color: white;
 	font-weight: 600;
-	padding: 1.2em 2.4;
+	padding: 1.2em 2.4em;
 	width: 100%;
 	height: auto;
 }
 
 a.button {
 	border: 2px solid black;
+	font-weight: 400;
 	width: 100%;
 	height: auto;
+	padding: 1.2em 2.4em;
 }
 
 li.button-fixer {
