@@ -96,6 +96,7 @@ p, a, ul, li {
 
 a.main-button {
 	background: black;
+	text-align: center;
 	color: white;
 	font-weight: 600;
 	display: inline-block;
@@ -107,6 +108,7 @@ a.main-button {
 a.button {
 	border: 2px solid black;
 	font-weight: 400;
+	text-align: center;
 	width: 420px;
 	display: inline-block;
 	height: auto;
