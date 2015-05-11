@@ -97,6 +97,7 @@ p, a, ul, li {
 
 a.main-button {
 	background: black;
+	border: 2px solid black;
 	text-align: center;
 	color: white;
 	font-weight: 600;
