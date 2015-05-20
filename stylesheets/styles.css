@@ -106,6 +106,12 @@ a.main-button {
 	width: 240px;
 	height: auto;
 }
+a.main-button:hover {
+	background: white;
+	border: 2px solid black;
+	color: black;
+	transition: .5s;
+}
 
 a.button {
 	border: 2px solid black;
