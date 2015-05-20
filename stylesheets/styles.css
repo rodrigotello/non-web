@@ -110,7 +110,7 @@ a.main-button:hover {
 	background: white;
 	border: 2px solid black;
 	color: black;
-	transition: .5s;
+	transition: .32s;
 }
 
 a.button {
@@ -121,6 +121,11 @@ a.button {
 	display: inline-block;
 	height: auto;
 	padding: 1.2em 2.4em;
+}
+a.button:hover {
+	border: solid gray;
+	color: gray;
+	transition: .32s;
 }
 
 li.button-fixer {
